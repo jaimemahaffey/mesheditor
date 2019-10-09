@@ -4,10 +4,8 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:l="clr-namespace:UBL_MeshEditor"
-        xmlns:ublMeshEditor="clr-namespace:UBL_MeshEditor"
-        xmlns:ublMeshEditor1="clr-namespace:UBL_MeshEditor"
         mc:Ignorable="d"
-        Title="Mesh Editor" Height="800" Width="800">
+        Title="Mesh Editor" Height="950" Width="800">
     <Window.Resources>
         <ResourceDictionary>
             <l:ColorToBrushConverter x:Key="ColorToBrushConverter"/>
