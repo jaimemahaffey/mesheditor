@@ -59,6 +59,7 @@
     <Compile Include="DataEntryWindow.xaml.cs">
       <DependentUpon>DataEntryWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="MeshPointAdjustAdorner.cs" />
     <Compile Include="MeshViewModel.cs" />
     <Compile Include="Properties\Annotations.cs" />
     <Compile Include="Window1.xaml.cs">
